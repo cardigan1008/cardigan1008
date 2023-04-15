@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+😄 九乡河五百本软件工程在读
+- blog: https://cardigan1008.fun/
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=cardigan1008&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
+- 🔭 努力自学一些后端
+- 🌱 挣扎应对神奇课程
+- ⚡ 试图做一些有趣的事情
+
+
 <!--
 **cardigan1008/cardigan1008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
