@@ -1,14 +1,11 @@
 ### Hi there 👋
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=cardigan1008&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
+- 🔭 I’m currently working on [Apache ShardingSphere](https://github.com/apache/shardingsphere)
 
-😄 九乡河五百本软件工程在读
-- blog: https://cardigan1008.fun/
-
-- 🔭 努力自学一些后端
-- 🌱 挣扎应对神奇课程
-- ⚡ 试图做一些有趣的事情
-
+- 📝 I regularly write articles on [cardigan1008's blog](https://cardigan1008.fun)
+ 
+- 🌱 I’m currently learning ML.
 
 <!--
 **cardigan1008/cardigan1008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
