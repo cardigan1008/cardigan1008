@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=cardigan1008&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=cardigan1008&show_icons=true&count_private=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 - 🔭 I’m currently working on [Apache ShardingSphere](https://github.com/apache/shardingsphere) as an OSPP 2023 contributor.
 
