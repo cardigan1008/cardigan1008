@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [cardigan1008's blog](https://cardigan1008.fun).
  
-- 🌱 I’m currently learning Web.
+- 🌱 I’m currently learning AI and Rust.
 
 <!--
 **cardigan1008/cardigan1008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
