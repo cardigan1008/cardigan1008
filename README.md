@@ -1,9 +1,11 @@
 ### Hi there 👋
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=cardigan1008&show_icons=true&count_private=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-- 🔭  I have already participated in the OSPP 2023 as a contributor for [Apache ShardingSphere](https://github.com/apache/shardingsphere).
+- 🔭 I have already participated in the OSPP 2023 as a contributor for [Apache ShardingSphere](https://github.com/apache/shardingsphere).
  
 - 🌱 I’m currently learning Rust and Program Repairing.
+
+- 📝 I'm looking for PhD positions. Please feel free to contact me! Check out [my homepage](https://cardigan1008.fun/).
 
 <!--
 **cardigan1008/cardigan1008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
