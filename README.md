@@ -5,7 +5,7 @@
  
 - 🌱 I’m currently learning Rust and Program Repairing.
 
-- 📝 I'm looking for PhD positions. Please feel free to contact me! Check out [my homepage](https://cardigan1008.fun/).
+- 📝 I'm looking for PhD positions. Please feel free to contact me! Check out [my homepage](https://cardigan1008.github.io/).
 
 <!--
 **cardigan1008/cardigan1008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
